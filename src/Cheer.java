@@ -1,6 +1,6 @@
 public class Cheer {
 
-  public static void cheer(){
-    System.out.println("MamaScript");
+  public static void cheer(String teamName){
+    System.out.println(teamName);
   }
 }
