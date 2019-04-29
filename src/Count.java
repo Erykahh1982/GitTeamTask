@@ -1,11 +1,7 @@
 public class Count {
 
-<<<<<<< HEAD
-  public void count () {
-    System.out.println("11");
-=======
-  public void count (int age) {
-    System.out.println(age);
->>>>>>> 0fe35b3d9402d327a1c0778b658decec32ef7581
-  }
+    public void count(int age) {
+        age = 11;
+        System.out.println(age);
+    }
 }
