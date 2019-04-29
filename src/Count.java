@@ -1,7 +1,8 @@
 public class Count {
 
-    public void count(int age) {
-        age = 11;
-        System.out.println(age);
+    public void count(int year, int month) {
+        year = 43;
+        month = 6;
+        System.out.println("I'm " + year " years and " + month + " old.");
     }
 }
