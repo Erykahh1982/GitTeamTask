@@ -1,8 +1,9 @@
 public class Greet {
 
     public static void printYourName() {
-        String name = "Greetings!";
-        System.out.println(name);
+        String greeting = "Greetings, ";
+        String name = "Erika";
+        System.out.println(greeting + name);
     }
 
 }
