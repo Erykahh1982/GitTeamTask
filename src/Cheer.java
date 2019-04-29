@@ -1,6 +1,6 @@
 public class Cheer {
 
-  public void cheer(){
+  public static void cheer(){
     System.out.println("MamaScript");
   }
 }
