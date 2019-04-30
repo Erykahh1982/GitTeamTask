@@ -4,5 +4,4 @@ public class Count {
         year = 43;
         month = 6;
         System.out.println("Counting the countless" + year);
-    }
 }
